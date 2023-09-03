@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=baghel-dev&label=Profile%20views&color=0e75b6&style=flat" alt="baghel-dev" /> </p>
 
-- 🔭 I’m currently working as a **Seo Executive**
+- 🔭 I’m currently working as a **SEO Executive**
 
-- 🌱 I’m currently learning **react js**
+- 🌱 I’m currently learning **React js**
 
 - 👯 I’m looking to collaborate on **web design**
 
