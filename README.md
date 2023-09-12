@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=baghel-dev&label=Profile%20views&color=0e75b6&style=flat" alt="baghel-dev" /> </p>
 
-
+-  I'm a web designer & developer.
 
 - 🌱 I’m currently learning **React js**
 
