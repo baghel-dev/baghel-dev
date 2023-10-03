@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **React js**
 
-- 👯 I’m looking to collaborate on **web design**
+- 👯 I’m looking to collaborate on **web developer**
 
 - 📝 I regularly write articles on [https://technoequity.com/](https://technoequity.com/)
 
